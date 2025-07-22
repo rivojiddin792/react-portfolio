@@ -8,8 +8,8 @@ function About() {
         </div>
         <div>
           <h2 className="about-subtitle">I'm Rivojiddin komiljanov</h2>
-          <span className="about-profession">Web Designer</span>
-          <p className="about-text">As a passionate web designer, I thrive on creating visually appealing and user-friendly websites. My journey in web design began with a fascination for how design can enhance user experience</p>
+          <span className="about-profession">Web Developer</span>
+          <p className="about-text">I am a passionate frontend developer dedicated to building modern, fast, and responsive web applications that enhance user experience. My journey began with a deep curiosity about how the combination of design and functionality can improve the way users interact with digital products.</p>
           <div className="about-social">
             <a href="#" className="about-social-icon"><i className='bx bxl-linkedin'></i></a>
             <a href="#" className="about-social-icon"><i className='bx bxl-github'></i></a>
