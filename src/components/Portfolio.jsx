@@ -44,7 +44,7 @@ function Portfolio() {
 
   return (
     <section className="portfolio section" id="portfolio">
-      <h2 className="section-title">Portfolio</h2>
+      <h2 className="section-title">projects</h2>
       <div className="portfolio-container bd-grid">
         {projects.map((project, index) => (
           <div className="portfolio-img" key={index}>
