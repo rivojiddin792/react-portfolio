@@ -12,7 +12,7 @@ function Footer() {
             <li><a href="#home" className="footer-link">Home</a></li>
             <li><a href="#about" className="footer-link">About</a></li>
             <li><a href="#skills" className="footer-link">Skills</a></li>
-            <li><a href="#portfolio" className="footer-link">Portfolio</a></li>
+            <li><a href="#portfolio" className="footer-link">projects</a></li>
             <li><a href="#contact" className="footer-link">Contact</a></li>
           </ul>
         </div>
